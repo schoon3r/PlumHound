@@ -3,3 +3,4 @@ py2neo
 tabulate
 argcomplete
 alive-progress
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
